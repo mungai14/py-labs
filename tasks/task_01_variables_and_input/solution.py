@@ -1,4 +1,5 @@
-# Task 01 — Variables and Input
-# Write your solution below
+firstname = " sam "
+lastname = " gitau "
+print( firstname + lastname )
 
 
