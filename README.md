@@ -1,6 +1,4 @@
-# Python Student Tasks
-
-This is where you will complete and submit your Python tasks.
+# Python Tasks
 
 ## How to get started
 Read the Git & GitHub guide first:
@@ -19,4 +17,4 @@ Read the Git & GitHub guide first:
 For each task:
 1. Write your code in the task's `solution.py`
 2. Commit and push to your fork on a branch named `task-XX`
-3. Open a Pull Request to the teacher's repo
+3. Open a Pull Request
